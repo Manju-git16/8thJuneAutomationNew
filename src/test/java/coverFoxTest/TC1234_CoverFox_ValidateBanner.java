@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -32,7 +33,8 @@ public class TC1234_CoverFox_ValidateBanner extends Base{
 	//open Browser//open an application
 	//gender,click on next,age,mobilenumber,pincode
 	
-	String excelPath="C:\\EclipseNew\\AutomationJune24\\Datasheets\\MyFile.xlsx";
+	String excelPath=System.getProperty("user.dir")+"\\Datasheets\\MyFile.xlsx";
+	
 	String sheet="Sheet2";
 	public static Logger logger;
 	@BeforeClass
@@ -56,6 +58,7 @@ public class TC1234_CoverFox_ValidateBanner extends Base{
 		healthPlanPage.clickOnNextButton();
 		logger.info("Clicking on Next Button");
 		Thread.sleep(1000);
+		Reporter.log("add xcel file path by Archana", true);
 		memberDetailsPage.handleAgeDropDown(Utility.readDataFromExcel(excelPath,sheet, 0, 0));
 		logger.info("Handling Age DropDown");
 		memberDetailsPage.clickOnNextButton();
