@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -91,6 +92,9 @@ public class TC12345_CoverFox_ValidateErrorMsgs extends Base {
 	  String expectedText=Utility.readDataFromExcel(excellPath, sheetName, 0, 4);
 	  
 	  Assert.assertEquals(actualText, expectedText,"Both are not Equals,TC Failed");
+ 
+	  Reporter.log("New Line Add for Branch Sneha", true);
+  
   }
   @AfterMethod
   public void closeApplication() {
