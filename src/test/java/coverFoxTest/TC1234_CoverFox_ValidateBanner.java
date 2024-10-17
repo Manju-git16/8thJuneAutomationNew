@@ -6,6 +6,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.EncryptedDocumentException;
 import org.testng.Assert;
+import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
@@ -77,6 +78,7 @@ public class TC1234_CoverFox_ValidateBanner extends Base{
 		logger.info("Validating Results");
 	  Assert.assertEquals(countFromText, countFromBanner,"both are not equals,TC Failed");
 	 // Assert.fail();
+	  Reporter.log("New Message for Branch",true);
   }
 	@AfterMethod
 	public void closeApplication() {

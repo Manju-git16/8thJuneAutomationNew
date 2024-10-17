@@ -64,8 +64,9 @@
           <version>3.5.1</version>
           <configuration>
             <suiteXmlFiles>
-				<suiteXmlFile>testngCoverFox.xml</suiteXmlFile>
-				<suiteXmlFile>testngValidateErrMsg.xml</suiteXmlFile>
+			 <suiteXmlFile>testngCoverFox.xml</suiteXmlFile>
+				<suiteXmlFile>testngValidateErrMsg.xml</suiteXmlFile> 
+				  <!-- <suiteXmlFile>${xmlFilePath}</suiteXmlFile> -->
 			</suiteXmlFiles>
           </configuration>
         </plugin>

@@ -25,3 +25,96 @@
 2024-10-14 12:22:52,820 - 8thJUne -WARN - Enter Valid pinCode
 2024-10-14 12:22:52,987 - 8thJUne -INFO - Entering Pincode
 2024-10-14 12:22:53,091 - 8thJUne -INFO - clicking On Continue Button
+2024-10-15 15:59:19,126 - 8thJuneCoverFox -INFO - Opening Browser
+2024-10-15 15:59:19,782 - 8thJuneCoverFox -INFO - Clicking on Gender Button
+2024-10-15 15:59:20,961 - 8thJuneCoverFox -INFO - Clicking on Next Button
+2024-10-15 15:59:23,345 - 8thJuneCoverFox -INFO - Handling Age DropDown
+2024-10-15 15:59:23,397 - 8thJuneCoverFox -INFO - Clicking on Next Button
+2024-10-15 15:59:24,579 - 8thJuneCoverFox -INFO - Entering Mobile Number
+2024-10-15 15:59:24,684 - 8thJuneCoverFox -INFO - Entering pincode
+2024-10-15 15:59:24,741 - 8thJuneCoverFox -INFO - Clicking on continue Button
+2024-10-15 15:59:27,820 - 8thJuneCoverFox -INFO - Validating Results
+2024-10-15 15:59:28,015 - 8thJuneCoverFox -INFO - Closing Browser
+2024-10-15 15:59:38,393 - 8thJUne -INFO - Opening Application
+2024-10-15 15:59:38,396 - 8thJUne -INFO - clicking On Gender Button
+2024-10-15 15:59:40,938 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 15:59:43,080 - 8thJUne -INFO - Handling Gender Button
+2024-10-15 15:59:43,246 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 15:59:45,300 - 8thJUne -WARN - Enter Valid Mobile Number
+2024-10-15 15:59:45,430 - 8thJUne -INFO - Entering Mobile Number
+2024-10-15 15:59:45,504 - 8thJUne -INFO - clicking On Continue Button
+2024-10-15 15:59:45,504 - 8thJUne -ERROR - please Check Details Again
+2024-10-15 15:59:53,622 - 8thJUne -INFO - Opening Application
+2024-10-15 15:59:53,625 - 8thJUne -INFO - clicking On Gender Button
+2024-10-15 15:59:56,644 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 15:59:58,715 - 8thJUne -INFO - Handling Gender Button
+2024-10-15 15:59:58,889 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:00:00,943 - 8thJUne -WARN - Enter Valid pinCode
+2024-10-15 16:00:01,103 - 8thJUne -INFO - Entering Pincode
+2024-10-15 16:00:01,154 - 8thJUne -INFO - clicking On Continue Button
+2024-10-15 16:07:07,766 - 8thJuneCoverFox -INFO - Opening Browser
+2024-10-15 16:07:08,518 - 8thJuneCoverFox -INFO - Clicking on Gender Button
+2024-10-15 16:07:09,589 - 8thJuneCoverFox -INFO - Clicking on Next Button
+2024-10-15 16:07:11,892 - 8thJuneCoverFox -INFO - Handling Age DropDown
+2024-10-15 16:07:11,958 - 8thJuneCoverFox -INFO - Clicking on Next Button
+2024-10-15 16:07:13,144 - 8thJuneCoverFox -INFO - Entering Mobile Number
+2024-10-15 16:07:13,250 - 8thJuneCoverFox -INFO - Entering pincode
+2024-10-15 16:07:13,306 - 8thJuneCoverFox -INFO - Clicking on continue Button
+2024-10-15 16:07:16,370 - 8thJuneCoverFox -INFO - Validating Results
+2024-10-15 16:07:16,554 - 8thJuneCoverFox -INFO - Closing Browser
+2024-10-15 16:07:20,010 - 8thJUne -INFO - Opening Application
+2024-10-15 16:07:20,012 - 8thJUne -INFO - clicking On Gender Button
+2024-10-15 16:07:23,091 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:07:25,160 - 8thJUne -INFO - Handling Gender Button
+2024-10-15 16:07:25,333 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:07:27,377 - 8thJUne -WARN - Enter Valid Mobile Number
+2024-10-15 16:07:27,496 - 8thJUne -INFO - Entering Mobile Number
+2024-10-15 16:07:27,546 - 8thJUne -INFO - clicking On Continue Button
+2024-10-15 16:07:27,547 - 8thJUne -ERROR - please Check Details Again
+2024-10-15 16:07:33,303 - 8thJUne -INFO - Opening Application
+2024-10-15 16:07:33,306 - 8thJUne -INFO - clicking On Gender Button
+2024-10-15 16:07:35,597 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:23:06,388 - 8thJUne -INFO - Opening Application
+2024-10-15 16:23:06,450 - 8thJUne -INFO - clicking On Gender Button
+2024-10-15 16:23:09,482 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:23:11,581 - 8thJUne -INFO - Handling Gender Button
+2024-10-15 16:23:12,810 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:23:14,893 - 8thJUne -WARN - Enter Valid Mobile Number
+2024-10-15 16:23:15,080 - 8thJUne -INFO - Entering Mobile Number
+2024-10-15 16:23:15,153 - 8thJUne -INFO - clicking On Continue Button
+2024-10-15 16:23:15,156 - 8thJUne -ERROR - please Check Details Again
+2024-10-15 16:23:21,750 - 8thJUne -INFO - Opening Application
+2024-10-15 16:23:21,753 - 8thJUne -INFO - clicking On Gender Button
+2024-10-15 16:23:25,316 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:23:27,407 - 8thJUne -INFO - Handling Gender Button
+2024-10-15 16:23:27,606 - 8thJUne -INFO - clicking On Next Button
+2024-10-15 16:23:29,700 - 8thJUne -WARN - Enter Valid pinCode
+2024-10-15 16:23:29,850 - 8thJUne -INFO - Entering Pincode
+2024-10-15 16:23:29,920 - 8thJUne -INFO - clicking On Continue Button
+2024-10-16 11:02:52,910 - 8thJuneCoverFox -INFO - Opening Browser
+2024-10-16 11:02:53,568 - 8thJuneCoverFox -INFO - Clicking on Gender Button
+2024-10-16 11:02:54,668 - 8thJuneCoverFox -INFO - Clicking on Next Button
+2024-10-16 11:02:57,176 - 8thJuneCoverFox -INFO - Handling Age DropDown
+2024-10-16 11:02:57,233 - 8thJuneCoverFox -INFO - Clicking on Next Button
+2024-10-16 11:02:58,414 - 8thJuneCoverFox -INFO - Entering Mobile Number
+2024-10-16 11:02:58,569 - 8thJuneCoverFox -INFO - Entering pincode
+2024-10-16 11:02:58,636 - 8thJuneCoverFox -INFO - Clicking on continue Button
+2024-10-16 11:03:01,705 - 8thJuneCoverFox -INFO - Validating Results
+2024-10-16 11:03:01,886 - 8thJuneCoverFox -INFO - Closing Browser
+2024-10-16 11:03:07,018 - 8thJUne -INFO - Opening Application
+2024-10-16 11:03:07,023 - 8thJUne -INFO - clicking On Gender Button
+2024-10-16 11:03:09,753 - 8thJUne -INFO - clicking On Next Button
+2024-10-16 11:03:12,198 - 8thJUne -INFO - Handling Gender Button
+2024-10-16 11:03:12,396 - 8thJUne -INFO - clicking On Next Button
+2024-10-16 11:03:14,461 - 8thJUne -WARN - Enter Valid Mobile Number
+2024-10-16 11:03:14,595 - 8thJUne -INFO - Entering Mobile Number
+2024-10-16 11:03:14,646 - 8thJUne -INFO - clicking On Continue Button
+2024-10-16 11:03:14,646 - 8thJUne -ERROR - please Check Details Again
+2024-10-16 11:03:19,840 - 8thJUne -INFO - Opening Application
+2024-10-16 11:03:19,840 - 8thJUne -INFO - clicking On Gender Button
+2024-10-16 11:03:22,496 - 8thJUne -INFO - clicking On Next Button
+2024-10-16 11:03:24,555 - 8thJUne -INFO - Handling Gender Button
+2024-10-16 11:03:24,700 - 8thJUne -INFO - clicking On Next Button
+2024-10-16 11:03:26,765 - 8thJUne -WARN - Enter Valid pinCode
+2024-10-16 11:03:26,855 - 8thJUne -INFO - Entering Pincode
+2024-10-16 11:03:26,905 - 8thJUne -INFO - clicking On Continue Button
