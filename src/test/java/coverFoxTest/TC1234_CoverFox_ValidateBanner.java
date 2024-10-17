@@ -80,6 +80,7 @@ public class TC1234_CoverFox_ValidateBanner extends Base{
 		logger.info("Validating Results");
 	  Assert.assertEquals(countFromText, countFromBanner,"both are not equals,TC Failed");
 	 // Assert.fail();
+	  Reporter.log("This Is New LINE for BRANCH");
   }
 	@AfterMethod
 	public void closeApplication() {
